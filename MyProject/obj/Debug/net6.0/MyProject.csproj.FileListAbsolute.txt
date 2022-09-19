@@ -1,0 +1,15 @@
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/bin/Debug/net6.0/MyProject
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/bin/Debug/net6.0/MyProject.deps.json
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/bin/Debug/net6.0/MyProject.runtimeconfig.json
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/bin/Debug/net6.0/MyProject.dll
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/bin/Debug/net6.0/MyProject.pdb
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/obj/Debug/net6.0/MyProject.csproj.AssemblyReference.cache
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/obj/Debug/net6.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/obj/Debug/net6.0/MyProject.AssemblyInfoInputs.cache
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/obj/Debug/net6.0/MyProject.AssemblyInfo.cs
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/obj/Debug/net6.0/MyProject.csproj.CoreCompileInputs.cache
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/obj/Debug/net6.0/MyProject.dll
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/obj/Debug/net6.0/refint/MyProject.dll
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/obj/Debug/net6.0/MyProject.pdb
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/obj/Debug/net6.0/MyProject.genruntimeconfig.cache
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject/obj/Debug/net6.0/ref/MyProject.dll
