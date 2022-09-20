@@ -1,0 +1,15 @@
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/obj/Debug/net6.0/MyProject_1.csproj.AssemblyReference.cache
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/obj/Debug/net6.0/MyProject_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/obj/Debug/net6.0/MyProject_1.AssemblyInfoInputs.cache
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/obj/Debug/net6.0/MyProject_1.AssemblyInfo.cs
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/obj/Debug/net6.0/MyProject_1.csproj.CoreCompileInputs.cache
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/bin/Debug/net6.0/MyProject_1
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/bin/Debug/net6.0/MyProject_1.deps.json
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/bin/Debug/net6.0/MyProject_1.runtimeconfig.json
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/bin/Debug/net6.0/MyProject_1.dll
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/bin/Debug/net6.0/MyProject_1.pdb
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/obj/Debug/net6.0/MyProject_1.dll
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/obj/Debug/net6.0/refint/MyProject_1.dll
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/obj/Debug/net6.0/MyProject_1.pdb
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/obj/Debug/net6.0/MyProject_1.genruntimeconfig.cache
+/Users/vadimsadovnikov/Desktop/GB/Repositories/C_Sharp_HW/MyProject_1/obj/Debug/net6.0/ref/MyProject_1.dll
