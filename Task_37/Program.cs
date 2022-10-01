@@ -21,6 +21,7 @@ void PrintArray(int[] array)
     Console.WriteLine();
 }
 
+// Создает второй массив, в который помещяет произведение крайних элементов массива
 int[] GetArrayMultiplicated(int[] array)
 {
     int size = 0;
