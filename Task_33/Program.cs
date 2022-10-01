@@ -1,4 +1,4 @@
-﻿// Выводит "Да" или "Нет" в зависимости есть ли число в массиве или нет
+// Выводит "Да" или "Нет" в зависимости есть ли число в массиве или нет
 string GetApperanceOfNumber (int[] array, int n)
 {
     for (int i = 0; i < array.Length; i++)
@@ -6,6 +6,7 @@ string GetApperanceOfNumber (int[] array, int n)
         if (array[i] == n)
         {
             return "Да";
+            break;
         }
     }
     return "Нет";
