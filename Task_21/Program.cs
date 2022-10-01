@@ -1,5 +1,5 @@
 ﻿// Нахождение расстояния между двумя точками на двухмерной плоскости
-double GetDistant (int x1, int x2, int y1, int y2)
+double GetDistance (int x1, int x2, int y1, int y2)
 {
     double distant = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
     return distant;
@@ -17,5 +17,5 @@ int x2 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Y: ");
 int y2 = Convert.ToInt32(Console.ReadLine());
 
-double distant = GetDistant(x1, x2, y1, y2);
+double distant = GetDistance(x1, x2, y1, y2);
 Console.WriteLine($"Расстояние между точками с координатами ({x1},{y1}) и ({x2}, {y2}) равно {distant}");
