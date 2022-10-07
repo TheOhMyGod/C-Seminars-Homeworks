@@ -22,7 +22,7 @@ void PrintArray (int[,] array)
     }
 }
 
-int GetSumOfPrimeLine (int[,] array)
+int GetSumOfPrimeDiagonal (int[,] array)
 {
     int sum = 0;
     for (int i = 0; i < array.GetLength(0); i++)
@@ -51,6 +51,6 @@ FillArray(array);
 PrintArray(array);
 Console.WriteLine();
 
-Console.WriteLine($"Сумма чисел находящихся на главной диагонали равна " + GetSumOfPrimeLine(array));
+Console.WriteLine($"Сумма чисел находящихся на главной диагонали равна " + GetSumOfPrimeDiagonal(array));
 
 Console.ReadKey();
